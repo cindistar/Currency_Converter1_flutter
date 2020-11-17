@@ -1,4 +1,4 @@
-# Simple Login Page
+# Simple Login Screen
 
 My first Flutter application using Dart.
 
