@@ -1,8 +1,4 @@
-# flut
+# Currency Converter (Conversor de Moedas)
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+My new Flutter application using Dart.
 
