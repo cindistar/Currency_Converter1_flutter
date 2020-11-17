@@ -1,6 +1,6 @@
 # Simple Login Page
 
-My new Flutter application using Dart.
+My first Flutter application using Dart.
 
 ![](app-login.gif)
 
